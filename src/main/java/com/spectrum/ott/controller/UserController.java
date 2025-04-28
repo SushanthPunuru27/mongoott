@@ -2,6 +2,7 @@ package com.spectrum.ott.controller;
 
 import com.spectrum.ott.model.User;
 import com.spectrum.ott.service.UserService;
+import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
